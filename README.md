@@ -1,1 +1,1 @@
-https://GLSPB.github.io/cbsvib-practice/cv
+https://GLSPB.github.io/test/cv
